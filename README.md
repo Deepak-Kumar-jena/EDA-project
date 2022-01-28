@@ -1,2 +1,2 @@
-# Deepak-Kumar-Jena-EDA_1-project
+# EDA-project
 Capstone Project - Telecom Churn Analysis
